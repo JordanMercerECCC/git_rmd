@@ -1,0 +1,13 @@
+---
+author: Jordan Mercer
+title: Rmd
+output: html_document
+---
+
+#Title
+
+This is some text with in line code `r 1 + 1`.
+
+```{r}
+plot(1)
+```
